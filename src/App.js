@@ -14,7 +14,7 @@ function App() {
       ...oncekiListe,
       "Yeni yapılacak iş",
     ]);
-  }, [yapilacaklar]);
+  }, []);
 
   return (
     <>
